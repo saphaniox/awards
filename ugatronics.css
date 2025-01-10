@@ -1,0 +1,41 @@
+           body{margin:0px;
+                font-family:poppins;} 
+              
+             a{margin:10px;
+                text-decoration:none;
+                    background-color:#123456;
+                     font-size:20px;
+                         color:white;}
+                        a:hover{color:violet;
+                              font-weight:bold;}
+                 
+       .generalcontainer{background-color:#456735;
+                 min-height:100vh;
+                 background-image:url("./sap2.jg");
+                 padding:10px;}
+
+              .navigationcontainer{height:100px;
+                height:100px;
+               background-color:#98754e;
+                    display:flex;
+                    justify-content:row;
+                        align-items:center;}
+
+                          .imagetextcontainer{display:flex;
+                           justify-content:space-between;}
+
+                           h1{font-size:50px;
+                              margin: 40px;}
+                           p{font-size:20px;
+                                margin:30px;
+                                color:#fc0303;}
+
+                                 button{height:50px;
+                                    margin:50px;
+                                     width:220px;
+                                          border-radius:120px;
+                                          background-color:#678966;
+                                            font-family:poppins;}
+                                                               
+                                
+             
